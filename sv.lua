@@ -66,7 +66,3 @@ RegisterCommand("rozdaj", function(source, args)
         end
     end 
 end)
-Citizen.CreateThread(function()
-    while true do 
-    end
-end)
